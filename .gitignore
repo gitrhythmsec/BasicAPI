@@ -1,2 +1,5 @@
 # bonus python garbage lol, typically ignored https://stackoverflow.com/questions/16869024/what-is-pycache
 __pycache__
+
+# more python stuff, not sure what it is but I don't want to push it.
+.main.py.swp

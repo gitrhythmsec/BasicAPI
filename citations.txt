@@ -1,0 +1,23 @@
+First tutorial
+https://blog.postman.com/how-to-build-an-api-in-python/
+
+Starting the server
+ttps://www.geeksforgeeks.org/python/fastapi-uvicorn/
+
+Explaining async
+https://www.geeksforgeeks.org/python/python-async/
+
+HTTP 422 error
+https://stackoverflow.com/questions/66622020/fastapi-detailmethod-not-allowed
+
+Explaining __pycache__
+https://stackoverflow.com/questions/16869024/what-is-pycache
+
+Spawning python shells
+https://stackoverflow.com/questions/58730698/how-to-run-one-line-python-command-in-terminal
+
+&& but in python lol
+https://stackoverflow.com/questions/2485466/what-is-pythons-equivalent-of-logical-and-in-an-if-statement
+
+centering a table
+https://stackoverflow.com/questions/9460862/centering-a-table-within-a-div
